@@ -1,0 +1,14 @@
+.login {
+    min-height: 100vh;
+    margin-top: -2rem;
+    background-color: #FFF;
+    display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+}
+
+h2 {
+    text-align: center;
+    margin: 1rem auto 0.rem auto;
+}

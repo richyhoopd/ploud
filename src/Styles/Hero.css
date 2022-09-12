@@ -1,0 +1,30 @@
+
+.hero__banner {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0.5rem calc((100vw - 1000px) / 2);
+}
+
+.text__part {
+    width: 40%;
+    color: #04111D;
+}
+
+h1 {
+    color: #04111D;
+    font-size: 52px;
+    margin: 0;
+}
+
+p {
+    font-size: 22px;
+    color: #292e3b;
+    margin-bottom: 50px;
+}
+
+img {
+    width: 400px;
+}
+
+
